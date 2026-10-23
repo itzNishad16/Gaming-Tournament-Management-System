@@ -1,0 +1,32 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+
+.env
+.env.*
+!.env.example
+secrets.toml
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log

@@ -1,0 +1,6 @@
+To activate venv enviorment : 
+1.  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+2.  .\venv\Scripts\Activate.ps1
+3.  streamlit run app/main.py
+
+Local URL: http://localhost:8501

@@ -149,12 +149,6 @@ Once the application is running, users can interact with the system through the 
 - Enhanced user authentication and role-based access control.
 - Improved dashboard and visualization features.
 
-## 👨‍💻 Contributors
-
-- **Arbaaz Ansari**
-- **Nishad Jadhav**
-- **Kaustubh Patil**
-
 ---
 
 <p align="center">
